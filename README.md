@@ -1,2 +1,2 @@
 # Dummy-Repo
-This is a README file
+Learning at Arewa Data Science Academy
